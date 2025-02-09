@@ -13,10 +13,10 @@
     <img src="images/simcoder.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Instagram Clone</h3>
+  <h3 align="center">Trendify</h3>
 
   <p align="center">
-    A Instagram clone app made with React Native and firebase
+    Trendify app made with React Native and firebase
     <br />
     <a href="https://github.com/SimCoderYoutube/InstagramClone/wiki"><strong>Explore the docs »</strong></a>
     <br />
